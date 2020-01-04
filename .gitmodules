@@ -1,0 +1,8 @@
+[submodule "kimdubi.github.io"]
+	path = kimdubi.github.io
+	url = https://github.com/kimdubi/kimdubi.github.io
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/kimdubi/kimdubi.github.io.git
+	branch = master
